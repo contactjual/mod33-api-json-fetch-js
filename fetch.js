@@ -21,3 +21,13 @@ function displayUsers(data) {
         ul.appendChild(list);
     }
 }
+
+
+
+/*
+# server
+1. Get
+2. Post
+3. Patch
+4. Delete 
+*/
