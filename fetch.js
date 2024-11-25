@@ -25,7 +25,7 @@ function displayUsers(data) {
 
 
 /*
-# server
+# server(REST API mathode)
 1. Get
 2. Post
 3. Patch
